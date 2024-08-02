@@ -1,2 +1,2 @@
 # FakeDataGenerator
-Generate simple data for inserting to databases and making POST requests
+Generate sample data for populating the DBs
